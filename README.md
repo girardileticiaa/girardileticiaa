@@ -16,3 +16,15 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
+<!-- SNAKE -->
+<h2 align="center">Minhas contribuições</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girardileticiaa/girardileticiaa/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DB70B8,100:BA68C8&height=100&section=footer">
+</p>
