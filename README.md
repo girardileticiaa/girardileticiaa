@@ -18,7 +18,7 @@
 </p>
 
 <!-- SNAKE -->
-<h2 align="center">Minhas contribuições</h2>
+<h2 align="center">🐍  Minhas contribuições</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/girardileticiaa/girardileticiaa/output/github-contribution-grid-snake.svg" alt="Snake animation">
